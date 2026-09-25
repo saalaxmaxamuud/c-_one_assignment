@@ -1,0 +1,11 @@
+D:\c#\projects\week2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\c#\projects\week2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\c#\projects\week2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\c#\projects\week2\Assignment2\Assignment2\obj\Debug\Assignment2.exe.config
