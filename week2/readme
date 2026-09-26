@@ -1,0 +1,31 @@
+## variable
+## screenshot1 creating variables
+A variable is used to store data. 
+string name = "Saalax";
+int age = 20;
+## screanshoot2 contatenation
+Concatenation means joining two or more strings together.
+To clear the content of a TextBox control, assign an empty string("")
+## steps
+string firstName = "Saalax";
+string lastName = "Mohamud";
+## concat firstName & lastname
+string fullName = firstName + " " + lastName;
+
+## screenshoot3 display the output
+Display means showing information or output to the user.
+
+In C# Windows Forms, you can display information using:
+
+## lblResult.Text = "Hello Saalax";
+
+ ## screenshoot4 clear data 
+
+Clear means removing the data from a TextBox.
+## there are three ways
+txtName.Clear();
+txtPhone.Clear();
+txtEmail.Clear();
+
+
+ 
