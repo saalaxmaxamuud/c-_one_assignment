@@ -29,6 +29,20 @@ They enhance the functionality of your programs
 There are invisible objects in a G U I such as Timers, and OpenFileDialog
 A class is code that describes a particular type of object
 
+## The Properties Window
+
+The appearance and other characteristics of a G U I object are determined by the object's properties
+Properties are settings that control how the object looks and behaves
+The Properties window lists all properties
+When selecting an object, its properties are displayed in Properties windows
+
+## Message Boxes
+A message box (a k a dialog box) displays a message
+.NET provides a method named MessageBox.Show
+The method displays a window with a message. A sample code is (bold line):
+
+
+
 ## Controls
 An object is a program component that contains data and performs operations, Programs use objects to perform specific tasks.
 Most programming languages use object-oriented programming in which a program component is called an “object”
@@ -92,9 +106,25 @@ MessageBox.Show("Hello World");
 
 A Label is used to display text on a Form.
 
+## 2.5 Label Controls
+A Label control displays text on a form and can be used to display unchanging text or program output
+Commonly used properties are:
+Text: gets(read) or sets(write/change) the text associated with Label control
+Name: gets or sets the name of Label control
+Font: allows you to set the font, font style, and font size
+BorderStyle: allows you to display a border around the control’s text
+AutoSize: controls the way they can be resized
+TextAlign: set the text alignments
+
+
 ## PictureBox Controls
 
-A PictureBox is a control used to display an image.
+A PictureBox control displays a graphic image on a form
+Commonly used properties are:
+Image: specifies the image that it will display
+SizeMode: specifies how the control’s image is to be displayed
+Visible: determines whether the control is visible on the form at run time
+
 
 ## Comments, Blank Lines, and Indentation
 Comments
@@ -109,3 +139,8 @@ Blank lines make code easier to read.
 Indentation
 
 Indentation means putting spaces before code to make the structure clear.
+
+## 2.10 Dealing with Syntax Errors
+The Visual Studio code editor examines each statement as you type it and reports any syntax errors that are found
+If a syntax error is found, it is underlined with a jagged line
+If a syntax error exists and you attempt to compile and execute, you will see the following window

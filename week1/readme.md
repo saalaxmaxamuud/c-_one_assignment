@@ -1,29 +1,4 @@
 #Discouse chapter 1
-#overview
-this practice demonstrates
--create string variables
--combine two strings values
-display the result
-## creating variables1
--firstname store the first name
--secondname store the second name
--fullname store the complete name after combining the first and second
-
-##  example creating variable 
-
-string name = "Saalax";
-int age = 20;
-
-#contenation the first and secondname
--follow this screenshoots
-## example how to make contatenation
-string firstName = "Saalax";
-string lastName = "Mohamud";
-## concat
-string fullName = firstName + " " + lastName;
-
-#display the fullname
--follow the screenshoots
 
 ## example display the output
 lblResult.Text = txtName.Text; 
@@ -35,3 +10,16 @@ lblResult.Text = txtName.Text;
 txtName.Clear();
 txtPhone.Clear();
 txtAddress.Clear();
+
+## . MessageBox
+A MessageBox is used to display a message to the user.
+
+When the user clicks the button, the MessageBox.Show() method displays a message on the screen.
+
+## Exit in C#
+
+Exit means to close or leave the program.
+
+C# Windows Forms has two common ways to exit:
+
+1. this.Close()
