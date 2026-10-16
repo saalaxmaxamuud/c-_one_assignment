@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\Assignment3\\",
+  "WorkspaceRootPath": "D:\\c#\\c# assignment\\c#_one_assignments\\Assignment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|d:\\c#\\assignment3\\assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|d:\\c#\\c# assignment\\c#_one_assignments\\assignment3\\assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|d:\\c#\\assignment3\\assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|D:\\c#\\c# assignment\\c#_one_assignments\\Assignment3\\assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA302419-D373-4FAD-897A-CD6CB25EEA52}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\c#\\Assignment3\\Assignment3\\Form1.cs",
+              "DocumentMoniker": "D:\\c#\\c# assignment\\c#_one_assignments\\Assignment3\\Assignment3\\Form1.cs",
               "RelativeDocumentMoniker": "Assignment3\\Form1.cs",
-              "ToolTip": "D:\\c#\\Assignment3\\Assignment3\\Form1.cs",
+              "ToolTip": "D:\\c#\\c# assignment\\c#_one_assignments\\Assignment3\\Assignment3\\Form1.cs",
               "RelativeToolTip": "Assignment3\\Form1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T19:19:17.996Z",
               "EditorCaption": ""
@@ -41,13 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\c#\\Assignment3\\Assignment3\\Form1.cs",
+              "DocumentMoniker": "D:\\c#\\c# assignment\\c#_one_assignments\\Assignment3\\Assignment3\\Form1.cs",
               "RelativeDocumentMoniker": "Assignment3\\Form1.cs",
               "ToolTip": "D:\\c#\\Assignment3\\Assignment3\\Form1.cs [Design]",
-              "RelativeToolTip": "Assignment3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Assignment3\\Assignment3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T19:06:14.146Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-30T19:06:14.146Z"
             }
           ]
         }

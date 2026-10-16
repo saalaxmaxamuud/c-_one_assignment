@@ -1,0 +1,11 @@
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.csproj.AssemblyReference.cache
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline_Ticket_system.Form1.resources
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline_Ticket_system.Properties.Resources.resources
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.csproj.GenerateResource.cache
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.csproj.CoreCompileInputs.cache
+D:\c#\Airline Ticket system\Airline Ticket system\bin\Debug\Airline Ticket system.exe.config
+D:\c#\Airline Ticket system\Airline Ticket system\bin\Debug\Airline Ticket system.exe
+D:\c#\Airline Ticket system\Airline Ticket system\bin\Debug\Airline Ticket system.pdb
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.exe
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.pdb
+D:\c#\Airline Ticket system\Airline Ticket system\obj\Debug\Airline Ticket system.exe.config
