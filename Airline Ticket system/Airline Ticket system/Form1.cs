@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace Airline_Ticket_system
 {
@@ -126,6 +127,35 @@ namespace Airline_Ticket_system
             }
         }
 
+        private void btClear_Click(object sender, EventArgs e)
+        {
+            // Clear all input fields
+            txtAge.Clear();
+            txtBaggageWeights.Clear();
+            txtName.Clear();
+            txtTickets.Clear();
+
+            // Reset room selections
+            radioBusinessClass.Checked = false;
+            radioFirstClass.Checked = false;
+            radioNormalClass.Checked = false;
+
+            // Uncheck breakfast
+            checkAddTravel.Checked = false;
+
+            // Clear booking details
+            AirlineBookDetails.Items.Clear();
+
+            // Focus on guest name
+            txtName.Focus();
+
+        }
+
+        private void btExit_Click(object sender, EventArgs e)
+        {
+            // Close the application
+            this.Close();
+        }
     }
     }
 

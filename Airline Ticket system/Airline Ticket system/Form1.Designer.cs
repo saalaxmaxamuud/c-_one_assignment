@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.txtName = new System.Windows.Forms.TextBox();
-            this.txtAge = new System.Windows.Forms.TextBox();
-            this.txtTickets = new System.Windows.Forms.TextBox();
-            this.txtBaggageWeights = new System.Windows.Forms.TextBox();
-            this.lblName = new System.Windows.Forms.Label();
-            this.lblAge = new System.Windows.Forms.Label();
-            this.lblNumberTickets = new System.Windows.Forms.Label();
             this.lblBaggageWeights = new System.Windows.Forms.Label();
+            this.lblNumberTickets = new System.Windows.Forms.Label();
+            this.lblAge = new System.Windows.Forms.Label();
+            this.lblName = new System.Windows.Forms.Label();
+            this.txtBaggageWeights = new System.Windows.Forms.TextBox();
+            this.txtTickets = new System.Windows.Forms.TextBox();
+            this.txtAge = new System.Windows.Forms.TextBox();
+            this.txtName = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.radioFirstClass = new System.Windows.Forms.RadioButton();
-            this.radioNormalClass = new System.Windows.Forms.RadioButton();
             this.radioBusinessClass = new System.Windows.Forms.RadioButton();
+            this.radioNormalClass = new System.Windows.Forms.RadioButton();
+            this.radioFirstClass = new System.Windows.Forms.RadioButton();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.checkAddTravel = new System.Windows.Forms.CheckBox();
             this.btCalculate = new System.Windows.Forms.Button();
@@ -72,55 +72,14 @@
             this.groupBox1.Text = "Personal Information";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // txtName
+            // lblBaggageWeights
             // 
-            this.txtName.Location = new System.Drawing.Point(292, 29);
-            this.txtName.Multiline = true;
-            this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(272, 43);
-            this.txtName.TabIndex = 0;
-            // 
-            // txtAge
-            // 
-            this.txtAge.Location = new System.Drawing.Point(292, 93);
-            this.txtAge.Multiline = true;
-            this.txtAge.Name = "txtAge";
-            this.txtAge.Size = new System.Drawing.Size(272, 43);
-            this.txtAge.TabIndex = 1;
-            // 
-            // txtTickets
-            // 
-            this.txtTickets.Location = new System.Drawing.Point(292, 153);
-            this.txtTickets.Multiline = true;
-            this.txtTickets.Name = "txtTickets";
-            this.txtTickets.Size = new System.Drawing.Size(272, 43);
-            this.txtTickets.TabIndex = 2;
-            // 
-            // txtBaggageWeights
-            // 
-            this.txtBaggageWeights.Location = new System.Drawing.Point(292, 217);
-            this.txtBaggageWeights.Multiline = true;
-            this.txtBaggageWeights.Name = "txtBaggageWeights";
-            this.txtBaggageWeights.Size = new System.Drawing.Size(272, 43);
-            this.txtBaggageWeights.TabIndex = 3;
-            // 
-            // lblName
-            // 
-            this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(90, 47);
-            this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(177, 25);
-            this.lblName.TabIndex = 4;
-            this.lblName.Text = "Passenger Name";
-            // 
-            // lblAge
-            // 
-            this.lblAge.AutoSize = true;
-            this.lblAge.Location = new System.Drawing.Point(109, 96);
-            this.lblAge.Name = "lblAge";
-            this.lblAge.Size = new System.Drawing.Size(160, 25);
-            this.lblAge.TabIndex = 5;
-            this.lblAge.Text = "Passenger Age";
+            this.lblBaggageWeights.AutoSize = true;
+            this.lblBaggageWeights.Location = new System.Drawing.Point(80, 235);
+            this.lblBaggageWeights.Name = "lblBaggageWeights";
+            this.lblBaggageWeights.Size = new System.Drawing.Size(189, 25);
+            this.lblBaggageWeights.TabIndex = 7;
+            this.lblBaggageWeights.Text = "Baggage Weights ";
             // 
             // lblNumberTickets
             // 
@@ -131,14 +90,55 @@
             this.lblNumberTickets.TabIndex = 6;
             this.lblNumberTickets.Text = "Number Of Tickets";
             // 
-            // lblBaggageWeights
+            // lblAge
             // 
-            this.lblBaggageWeights.AutoSize = true;
-            this.lblBaggageWeights.Location = new System.Drawing.Point(80, 235);
-            this.lblBaggageWeights.Name = "lblBaggageWeights";
-            this.lblBaggageWeights.Size = new System.Drawing.Size(189, 25);
-            this.lblBaggageWeights.TabIndex = 7;
-            this.lblBaggageWeights.Text = "Baggage Weights ";
+            this.lblAge.AutoSize = true;
+            this.lblAge.Location = new System.Drawing.Point(109, 96);
+            this.lblAge.Name = "lblAge";
+            this.lblAge.Size = new System.Drawing.Size(160, 25);
+            this.lblAge.TabIndex = 5;
+            this.lblAge.Text = "Passenger Age";
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Location = new System.Drawing.Point(90, 47);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(177, 25);
+            this.lblName.TabIndex = 4;
+            this.lblName.Text = "Passenger Name";
+            // 
+            // txtBaggageWeights
+            // 
+            this.txtBaggageWeights.Location = new System.Drawing.Point(292, 217);
+            this.txtBaggageWeights.Multiline = true;
+            this.txtBaggageWeights.Name = "txtBaggageWeights";
+            this.txtBaggageWeights.Size = new System.Drawing.Size(272, 43);
+            this.txtBaggageWeights.TabIndex = 3;
+            // 
+            // txtTickets
+            // 
+            this.txtTickets.Location = new System.Drawing.Point(292, 153);
+            this.txtTickets.Multiline = true;
+            this.txtTickets.Name = "txtTickets";
+            this.txtTickets.Size = new System.Drawing.Size(272, 43);
+            this.txtTickets.TabIndex = 2;
+            // 
+            // txtAge
+            // 
+            this.txtAge.Location = new System.Drawing.Point(292, 93);
+            this.txtAge.Multiline = true;
+            this.txtAge.Name = "txtAge";
+            this.txtAge.Size = new System.Drawing.Size(272, 43);
+            this.txtAge.TabIndex = 1;
+            // 
+            // txtName
+            // 
+            this.txtName.Location = new System.Drawing.Point(292, 29);
+            this.txtName.Multiline = true;
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(272, 43);
+            this.txtName.TabIndex = 0;
             // 
             // groupBox2
             // 
@@ -154,16 +154,16 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Travel Class";
             // 
-            // radioFirstClass
+            // radioBusinessClass
             // 
-            this.radioFirstClass.AutoSize = true;
-            this.radioFirstClass.Location = new System.Drawing.Point(19, 36);
-            this.radioFirstClass.Name = "radioFirstClass";
-            this.radioFirstClass.Size = new System.Drawing.Size(119, 24);
-            this.radioFirstClass.TabIndex = 0;
-            this.radioFirstClass.TabStop = true;
-            this.radioFirstClass.Text = "First Class";
-            this.radioFirstClass.UseVisualStyleBackColor = true;
+            this.radioBusinessClass.AutoSize = true;
+            this.radioBusinessClass.Location = new System.Drawing.Point(369, 36);
+            this.radioBusinessClass.Name = "radioBusinessClass";
+            this.radioBusinessClass.Size = new System.Drawing.Size(161, 24);
+            this.radioBusinessClass.TabIndex = 2;
+            this.radioBusinessClass.TabStop = true;
+            this.radioBusinessClass.Text = "Business  Class";
+            this.radioBusinessClass.UseVisualStyleBackColor = true;
             // 
             // radioNormalClass
             // 
@@ -176,16 +176,16 @@
             this.radioNormalClass.Text = "Normal Class";
             this.radioNormalClass.UseVisualStyleBackColor = true;
             // 
-            // radioBusinessClass
+            // radioFirstClass
             // 
-            this.radioBusinessClass.AutoSize = true;
-            this.radioBusinessClass.Location = new System.Drawing.Point(369, 36);
-            this.radioBusinessClass.Name = "radioBusinessClass";
-            this.radioBusinessClass.Size = new System.Drawing.Size(161, 24);
-            this.radioBusinessClass.TabIndex = 2;
-            this.radioBusinessClass.TabStop = true;
-            this.radioBusinessClass.Text = "Business  Class";
-            this.radioBusinessClass.UseVisualStyleBackColor = true;
+            this.radioFirstClass.AutoSize = true;
+            this.radioFirstClass.Location = new System.Drawing.Point(19, 36);
+            this.radioFirstClass.Name = "radioFirstClass";
+            this.radioFirstClass.Size = new System.Drawing.Size(119, 24);
+            this.radioFirstClass.TabIndex = 0;
+            this.radioFirstClass.TabStop = true;
+            this.radioFirstClass.Text = "First Class";
+            this.radioFirstClass.UseVisualStyleBackColor = true;
             // 
             // groupBox3
             // 
@@ -231,6 +231,7 @@
             this.btClear.TabIndex = 4;
             this.btClear.Text = "Clear";
             this.btClear.UseVisualStyleBackColor = true;
+            this.btClear.Click += new System.EventHandler(this.btClear_Click);
             // 
             // btExit
             // 
@@ -242,6 +243,7 @@
             this.btExit.TabIndex = 5;
             this.btExit.Text = "Exit";
             this.btExit.UseVisualStyleBackColor = true;
+            this.btExit.Click += new System.EventHandler(this.btExit_Click);
             // 
             // AirlineBookDetails
             // 
