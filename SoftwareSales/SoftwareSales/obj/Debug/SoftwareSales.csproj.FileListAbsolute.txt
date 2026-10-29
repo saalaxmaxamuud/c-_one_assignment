@@ -1,0 +1,11 @@
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.AssemblyReference.cache
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.cache
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.CoreCompileInputs.cache
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+D:\c#\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
+D:\c#\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe.config

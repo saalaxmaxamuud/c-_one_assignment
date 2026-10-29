@@ -1,0 +1,11 @@
+D:\c#\nested_loops\nested_loops\bin\Debug\nested_loops.exe.config
+D:\c#\nested_loops\nested_loops\bin\Debug\nested_loops.exe
+D:\c#\nested_loops\nested_loops\bin\Debug\nested_loops.pdb
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.csproj.AssemblyReference.cache
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.Form1.resources
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.Properties.Resources.resources
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.csproj.GenerateResource.cache
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.csproj.CoreCompileInputs.cache
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.exe
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.pdb
+D:\c#\nested_loops\nested_loops\obj\Debug\nested_loops.exe.config

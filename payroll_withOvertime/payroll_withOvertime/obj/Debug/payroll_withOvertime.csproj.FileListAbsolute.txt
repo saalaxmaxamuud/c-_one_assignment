@@ -1,0 +1,10 @@
+D:\c#\payroll_withOvertime\payroll_withOvertime\bin\Debug\payroll_withOvertime.exe.config
+D:\c#\payroll_withOvertime\payroll_withOvertime\bin\Debug\payroll_withOvertime.exe
+D:\c#\payroll_withOvertime\payroll_withOvertime\bin\Debug\payroll_withOvertime.pdb
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.csproj.AssemblyReference.cache
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.Form1.resources
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.Properties.Resources.resources
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.csproj.GenerateResource.cache
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.csproj.CoreCompileInputs.cache
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.exe
+D:\c#\payroll_withOvertime\payroll_withOvertime\obj\Debug\payroll_withOvertime.pdb

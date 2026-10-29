@@ -1,0 +1,11 @@
+D:\c#\example_radioBotton\example_radioBotton\bin\Debug\example_radioBotton.exe.config
+D:\c#\example_radioBotton\example_radioBotton\bin\Debug\example_radioBotton.exe
+D:\c#\example_radioBotton\example_radioBotton\bin\Debug\example_radioBotton.pdb
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.csproj.AssemblyReference.cache
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.Form1.resources
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.Properties.Resources.resources
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.csproj.GenerateResource.cache
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.csproj.CoreCompileInputs.cache
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.exe
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.pdb
+D:\c#\example_radioBotton\example_radioBotton\obj\Debug\example_radioBotton.exe.config
