@@ -1,0 +1,10 @@
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\bin\Debug\Assignment_files.exe.config
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\bin\Debug\Assignment_files.exe
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\bin\Debug\Assignment_files.pdb
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.Form1.resources
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.Properties.Resources.resources
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.exe
+C:\Users\Hp\Documents\Assignment_files\Assignment_files\obj\Debug\Assignment_files.pdb
